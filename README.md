@@ -1,8 +1,10 @@
-# React Budget App
+# COVID-19 Tracker
 
-To run:
+### [Live Site](https://budget-tracker-kishan.netlify.app/)
 
-```
-npm install 
-npm start 
-```
+## Introduction
+
+In this project, we have created a full Budget Tracker App. We have used React and Bootstrap.
+
+Setup:
+- run ```npm i && npm start```
