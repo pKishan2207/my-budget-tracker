@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this project, we have created a full Budget Tracker App. We have used React and Bootstrap.
+In this project, we have created a full Budget Tracker App. React and Bootstrap is used in this project.
 
 Setup:
 - run ```npm i && npm start```
