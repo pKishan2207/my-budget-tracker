@@ -1,4 +1,4 @@
-# COVID-19 Tracker
+# Budget Tracker
 
 ### [Live Site](https://budget-tracker-kishan.netlify.app/)
 
